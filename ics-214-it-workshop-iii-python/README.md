@@ -9,13 +9,13 @@ Hybrid Cloud Architect, Google</br>
 
 **High-level Curriculum:**</br>
 
-- Week 1
+- Week 1 - Foundational Python Concepts
   - [30 minutes] [Course Overview](./00_Session_1_Course_Overview_December_5_2022)
   - [90 minutes] [The Development Toolkit: Project Dependencies, Virtual Environments, and Git](./01_Session_2_The_Development_Toolkit_December_6_2022)
   - [90 minutes] Writing Effective Functions: Parameters, Arguments, Recursion, and Decorators
   - [90 minutes] Functional Programming: Lambdas, Iterators, Generators, and Yield Statements
   - [90 minutes] Pythonic OOP: Classes, Inheritance, Properties, and Dunder Methods
-- Week 2
+- Week 2 - Industry Relevant Python Concepts
   - [90 minutes] Towards Automation: Python and Network Programming
   - [90 minutes] Database Processing: Python and Databases
   - [90 minutes] Let's Talk Data: Python, Numpy, SciPy, and Visualizations
