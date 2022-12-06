@@ -10,7 +10,7 @@ Hybrid Cloud Architect, Google</br>
 **High-level Curriculum:**</br>
 
 - Week 1
-  - [30 minutes] Course Overview
+  - [30 minutes] [Course Overview](./Session_1_Course_Overview)
   - [90 minutes] The Development Toolkit: Project Dependencies, Virtual Environments, and Git
   - [90 minutes] Writing Effective Functions: Parameters, Arguments, Recursion, and Decorators
   - [90 minutes] Functional Programming: Lambdas, Iterators, Generators, and Yield Statements
