@@ -11,7 +11,7 @@ Hybrid Cloud Architect, Google</br>
 
 - Week 1
   - [30 minutes] [Course Overview](./00_Session_1_Course_Overview_December_5_2022)
-  - [90 minutes] The Development Toolkit: Project Dependencies, Virtual Environments, and Git
+  - [90 minutes] [The Development Toolkit: Project Dependencies, Virtual Environments, and Git](./01_Session_2_The_Development_Toolkit_December_6_2022)
   - [90 minutes] Writing Effective Functions: Parameters, Arguments, Recursion, and Decorators
   - [90 minutes] Functional Programming: Lambdas, Iterators, Generators, and Yield Statements
   - [90 minutes] Pythonic OOP: Classes, Inheritance, Properties, and Dunder Methods
@@ -21,6 +21,16 @@ Hybrid Cloud Architect, Google</br>
   - [90 minutes] Let's Talk Data: Python, Numpy, SciPy, and Visualizations
   - [90 minutes] Into the Web: Web Development and RESTful APIs
   - [90 minutes] Final Assessment (1 hour) + Ask Me Anything (30 minutes)
+
+**Course Pre-requisites:**</br>
+Understanding of the below-mentioned topics would be good to have.
+
+- Data Types, Variables, and Operators
+- Conditionals and Logical Operators
+- Loops
+- Lists, Tuples, Maps, Dictionaries, and related operations
+- Strings and String Processing
+- Functions
 
 **Disclaimer:**</br>
 The content and the views presented during the sessions/workshops are the author’s own and not of the organizations/companies they are associated with.
