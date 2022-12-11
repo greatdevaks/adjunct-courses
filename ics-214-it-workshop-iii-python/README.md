@@ -14,7 +14,7 @@ Hybrid Cloud Architect, Google</br>
   - [90 minutes] [The Development Toolkit: Project Dependencies, Virtual Environments, and Git](./02_Session_2_The_Development_Toolkit_December_6_2022)
   - [90 minutes] [Writing Effective Functions: Parameters, Arguments, Recursion, and Decorators](./03_Session_3_Writing_Effective_Functions_December_7_2022)
   - [90 minutes] [Functional Programming: Lambdas, Iterators, Generators, and Yield Statements](./04_Session_4_Functional_Programming_December_8_2022)
-  - [90 minutes] Pythonic OOP: Classes, Inheritance, Properties, and Dunder Methods
+  - [90 minutes] [Pythonic OOP: Classes, Inheritance, Properties, and Dunder Methods](./05_Session_5_Pythonic_OOP_December_9_2022)
 - Week 2 - Industry Relevant Python Concepts
   - [90 minutes] Towards Automation: Python and Network Programming
   - [90 minutes] Database Processing: Python and Databases
