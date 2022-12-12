@@ -16,7 +16,7 @@ Hybrid Cloud Architect, Google</br>
   - [90 minutes] [Functional Programming: Lambdas, Iterators, Generators, and Yield Statements](./04_Session_4_Functional_Programming_December_8_2022)
   - [90 minutes] [Pythonic OOP: Classes, Inheritance, Properties, and Dunder Methods](./05_Session_5_Pythonic_OOP_December_9_2022)
 - Week 2 - Industry Relevant Python Concepts
-  - [90 minutes] Towards Automation: Python and Network Programming
+  - [90 minutes] [Towards Automation: Python and Network Programming](./06_Session_6_Towards_Automation_December_12_2022)
   - [90 minutes] Database Processing: Python and Databases
   - [90 minutes] Let's Talk Data: Python, Numpy, SciPy, and Visualizations
   - [90 minutes] Into the Web: Web Development and RESTful APIs
