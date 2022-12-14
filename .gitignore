@@ -3,3 +3,6 @@
 *.xlsx
 *.profile
 *.pyc
+*.DS_Store
+*.pickle
+*.db
