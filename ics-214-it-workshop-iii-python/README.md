@@ -18,7 +18,7 @@ Hybrid Cloud Architect, Google</br>
 - Week 2 - Industry Relevant Python Concepts
   - [90 minutes] [Towards Automation: Python and Network Programming](./06_Session_6_Towards_Automation_December_12_2022)
   - [90 minutes] [Database Processing: Python and Databases](./07_Session_7_Database_Processing_December_13_2022)
-  - [90 minutes] Let's Talk Data: Python, Numpy, SciPy, and Visualizations
+  - [90 minutes] [Let's Talk Data: Python, Numpy, SciPy, and Visualizations](./08_Session_8_Let's_Talk_Data_December_14_2022)
   - [90 minutes] Into the Web: Web Development and RESTful APIs
   - [90 minutes] Final Assessment (1 hour) + Ask Me Anything (30 minutes)
 
